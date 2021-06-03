@@ -3,9 +3,6 @@ Source code for ACL-IJCNLP 2021 findings paper: [SIRE: Separate Intra- and Inter
 
 Will be available soon!
 
-
-******For latest update, please move to this [repo](https://github.com/DreamInvoker/GAIN).
-
 ## Citation
 
 If you use this work or code, please kindly cite the following paper:
